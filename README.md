@@ -1,7 +1,7 @@
 # Pig Game - Frontend Project
 
 ## Overview
-Very simple game with a beautiful design. The game is about 2 players racing to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls. This game was a practice project and I built it together with the instructor, throughout The Complete JavaScript Course 2022
+Very simple game with a beautiful design. The game is about 2 players racing to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls. This game was a practice project and I built it together with the instructor, throughout The Complete JavaScript Course 2021
 
 ## Links
 
