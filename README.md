@@ -1,4 +1,4 @@
-# Pig Game - Frontend Project
+# Pig Game - Frontend Practical Project
 
 ## Overview
 
